@@ -1,5 +1,5 @@
 # SQL_MUSIC_STORE_ANALYSIS
-SQL project to analyze online music store data
+SQL Music Store Analysis: Leveraged SQL queries to extract insights, optimizing sales, customer engagement, and inventory for comprehensive data-driven decisions.
 
 ## Database and Tools
 * Postgre SQL
